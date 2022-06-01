@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\TrumpX.Toolkit.Wpf.Mvvm\src\TrumpX.Toolkit.Wpf.Mvvm\TrumpX.Toolkit.Wpf.Mvvm\bin\Debug\TrumpX.Toolkit.Wpf.Mvvm.dll
+C:\Users\Administrator\Documents\TrumpX.Toolkit.Wpf.Mvvm\src\TrumpX.Toolkit.Wpf.Mvvm\TrumpX.Toolkit.Wpf.Mvvm\bin\Debug\TrumpX.Toolkit.Wpf.Mvvm.pdb
+C:\Users\Administrator\Documents\TrumpX.Toolkit.Wpf.Mvvm\src\TrumpX.Toolkit.Wpf.Mvvm\TrumpX.Toolkit.Wpf.Mvvm\obj\Debug\TrumpX.Toolkit.Wpf.Mvvm.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\TrumpX.Toolkit.Wpf.Mvvm\src\TrumpX.Toolkit.Wpf.Mvvm\TrumpX.Toolkit.Wpf.Mvvm\obj\Debug\TrumpX.Toolkit.Wpf.Mvvm.dll
+C:\Users\Administrator\Documents\TrumpX.Toolkit.Wpf.Mvvm\src\TrumpX.Toolkit.Wpf.Mvvm\TrumpX.Toolkit.Wpf.Mvvm\obj\Debug\TrumpX.Toolkit.Wpf.Mvvm.pdb
+C:\Users\Administrator\Documents\TrumpX.Toolkit.Wpf.Mvvm\src\TrumpX.Toolkit.Wpf.Mvvm\TrumpX.Toolkit.Wpf.Mvvm\obj\Debug\TrumpX.Toolkit.Wpf.Mvvm.csproj.AssemblyReference.cache
